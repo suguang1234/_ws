@@ -25,9 +25,9 @@ body {
 </html>
 `
   } else if (pathname == '/name') {
-    ctx.response.body = '陳冠昀'
+    ctx.response.body = '蘇睿凱'
   } else if (pathname == '/tall') {
-    ctx.response.body = '180'
+    ctx.response.body = '175'
     }
     else if (pathname == '/sex') {
     ctx.response.body = '男'
